@@ -1,10 +1,5 @@
 /.idea/.gitignore
 /.idea
 /plugins
-/out/production/Lab5_CommandConsole/commandLine/Commander.class
-/out/production/Lab5_CommandConsole/commandLine/Commands.class
-/out/production/Lab5_CommandConsole/Main.class
-/out/production/Lab5_CommandConsole/exceptions/ParseError.class
-/out/production/Lab5_CommandConsole/consoleParser/Parser.class
 /out
 target
