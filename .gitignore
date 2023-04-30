@@ -1,4 +1,6 @@
 /.idea/.gitignore
+/.idea
+/plugins
 /out/production/Lab5_CommandConsole/commandLine/Commander.class
 /out/production/Lab5_CommandConsole/commandLine/Commands.class
 /out/production/Lab5_CommandConsole/Main.class
